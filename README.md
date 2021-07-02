@@ -1,2 +1,2 @@
 # cv
-pagina web de desencrypt
+https://desencrypt.github.io/cv/
